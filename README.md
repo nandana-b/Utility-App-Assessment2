@@ -1,4 +1,3 @@
-# Utility-App-Assessment2
 # CodeLab I (CCO4000-20): Utility App - Assignment 2
 
 ## The Task
