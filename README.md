@@ -60,9 +60,3 @@ Incorrect submission will result in marks being deducted.
 &nbsp;
 &nbsp;
 
-## How to Clone The Assignment Repository
-
-See full guides for:
-* [Visual Studio](/Guides/Visual-Studio)
-* [Xcode](/Guides/Xcode)
-
