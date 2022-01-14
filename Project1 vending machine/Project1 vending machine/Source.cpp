@@ -687,7 +687,7 @@ int main() {//main
 		} //end output/message and thanking the user for choosing our service
 		else {
 			break;
-			cout << "INPUT NOT RECOGNISED!!" << endl;
+			cout << "INPUT NOT RECOGNISED!!!" << endl;
 		}
 	}
 	return 0;
